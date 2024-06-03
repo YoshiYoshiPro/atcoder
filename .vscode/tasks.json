@@ -40,7 +40,7 @@
     {
       "label": "SubmitCode",
       "type": "shell",
-      "command": "cd ${fileDirname} && acc submit ${fileBasename} -- -l 4003",
+      "command": "cd ${fileDirname} && acc submit ${fileBasename} -- -l 5053",
       "presentation": {
         "reveal": "always",
         "focus": true,
